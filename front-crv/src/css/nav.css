@@ -1,0 +1,8 @@
+@media (max-width: 600px){
+    
+    .p-tabmenu-nav .p-reset{
+        display: list-item;
+        color: blue;
+    }
+    
+}

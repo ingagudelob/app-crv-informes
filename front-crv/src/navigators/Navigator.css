@@ -1,0 +1,25 @@
+.nav-menus{
+    background-color: rgb(231, 127, 9);
+    position: fixed;
+    width: 100%;
+    z-index: 10000;
+    
+}
+
+.item-menus{
+    border: 2px groove rgb(172, 166, 166);
+    border-radius: 5px;
+
+}
+
+.item-menu:hover{
+    border-color: rgb(247, 241, 241);
+}
+
+.icon-menu{
+    color: rgb(51, 151, 233);
+}
+
+.container{
+    padding-top: 15px;
+}
